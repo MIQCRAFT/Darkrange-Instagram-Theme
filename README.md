@@ -14,9 +14,9 @@ Follow instructions :
 **I found a bug, what do I do?**<br>Make a **Pull Request / Issue** and tell me :)
 
 # Screenshots
-![Preview 1](https://miqcraft-theme.netlify.app/assets/img/classroom1.jpg)
+![Preview 1](https://miqcraft-theme.netlify.app/assets/img/ig1.png)
 
-![Preview 2](https://miqcraft-theme.netlify.app/assets/img/classroom2.jpg)
+![Preview 2](https://miqcraft-theme.netlify.app/assets/img/ig2.png)
 
 
 # License
